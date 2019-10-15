@@ -1,0 +1,4 @@
+Toyota Corolla  10000   40000
+Nissan Versa XL 3000    9000
+Hyundai 27000   43444
+Ferrai 2009 300000  1000000
